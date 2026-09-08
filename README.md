@@ -12,8 +12,8 @@ search, filter, and monitor technical support requests — built for
 
 Student: Annie Jean Arellano
 Section: BSIT 3A
-GitHub Repository:    https://github.com/<username>/SAD-ServiceRequest-<Lastname>
-Live System:          https://<username>.github.io/SAD-ServiceRequest-<Lastname>/
+GitHub Repository:    https://github.com/anniejeanarellano760-coder/SAD-ServiceRequest-Arellano
+Live System:          https://anniejeanarellano760-coder.github.io/SAD-ServiceRequest-Arellano/
 
 1. Problem Statement
 
